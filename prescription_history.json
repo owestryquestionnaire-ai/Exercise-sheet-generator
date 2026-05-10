@@ -1,0 +1,520 @@
+{
+    "PHYA123456": [
+        {
+            "timestamp": "05/09/2026 22:59",
+            "exercises": [
+                {
+                    "id": "e3",
+                    "name": "Electrical Muscle Stimulation",
+                    "minutes": ""
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": ""
+                },
+                {
+                    "id": "st3",
+                    "name": "Wall slides with gymball",
+                    "minutes": ""
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:02",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "minutes": ""
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": ""
+                },
+                {
+                    "id": "st3",
+                    "name": "Wall slides with gymball",
+                    "minutes": ""
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:06",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "minutes": ""
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": ""
+                },
+                {
+                    "id": "st2",
+                    "name": "Standing + Hamstring curl",
+                    "minutes": ""
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:11",
+            "exercises": [
+                {
+                    "id": "e3",
+                    "name": "Electrical Muscle Stimulation",
+                    "minutes": "",
+                    "stim_mode": "Static quads"
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": "",
+                    "bike_circle": "Full"
+                },
+                {
+                    "id": "f3",
+                    "name": "Stepping on foam",
+                    "minutes": ""
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:18",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1",
+                    "mode": "Static quads",
+                    "wave": "Blue"
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1",
+                    "mode": "Static quads",
+                    "wave": "Blue"
+                },
+                {
+                    "id": "st2",
+                    "name": "Standing + Hamstring curl",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1",
+                    "mode": "Static quads",
+                    "wave": "Blue"
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:26",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1",
+                    "stim_mode": "Static quads",
+                    "bike_circle": "Full",
+                    "wave": "Blue",
+                    "box_height": "4\""
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1",
+                    "stim_mode": "Static quads",
+                    "bike_circle": "Full",
+                    "wave": "Blue",
+                    "box_height": "4\""
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:29",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1",
+                    "stim_mode": "Static quads",
+                    "bike_circle": "Full",
+                    "wave": "Blue",
+                    "box_height": "4\""
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1",
+                    "stim_mode": "Static quads",
+                    "bike_circle": "Full",
+                    "wave": "Blue",
+                    "box_height": "4\""
+                },
+                {
+                    "id": "st2",
+                    "name": "Standing + Hamstring curl",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1",
+                    "stim_mode": "Static quads",
+                    "bike_circle": "Full",
+                    "wave": "Blue",
+                    "box_height": "4\""
+                },
+                {
+                    "id": "st3",
+                    "name": "Wall slides with gymball",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1",
+                    "stim_mode": "Static quads",
+                    "bike_circle": "Full",
+                    "wave": "Blue",
+                    "box_height": "4\""
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:37",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                },
+                {
+                    "id": "s5",
+                    "name": "Nustep",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:39",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:39",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                },
+                {
+                    "id": "f4",
+                    "name": "Stepping on box",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:41",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                },
+                {
+                    "id": "st2",
+                    "name": "Standing + Hamstring curl",
+                    "minutes": "",
+                    "side": "Right knee",
+                    "press": "Low",
+                    "deg": "1"
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:58",
+            "exercises": [
+                {
+                    "id": "e3",
+                    "name": "Electrical Muscle Stimulation",
+                    "mins": "15",
+                    "side": "Right knee",
+                    "press": "Low pressure",
+                    "deg": "1",
+                    "stim_mode": "沙包壓腳",
+                    "bike_range": "Full Circle",
+                    "level": "1",
+                    "seat_type": "Short Seat",
+                    "sling_move": "Hip Abduction",
+                    "wave": "Blue Wave",
+                    "box_height": "4\"",
+                    "hurdle_height": "4\"",
+                    "lymph_press": "40 mmHg"
+                },
+                {
+                    "id": "e4",
+                    "name": "Lymphapress",
+                    "mins": "15",
+                    "side": "Right knee",
+                    "press": "Low pressure",
+                    "deg": "1",
+                    "stim_mode": "Static Quads",
+                    "bike_range": "Full Circle",
+                    "level": "1",
+                    "seat_type": "Short Seat",
+                    "sling_move": "Hip Abduction",
+                    "wave": "Blue Wave",
+                    "box_height": "4\"",
+                    "hurdle_height": "4\"",
+                    "lymph_press": "50 mmHg"
+                }
+            ]
+        },
+        {
+            "timestamp": "05/09/2026 23:58",
+            "exercises": [
+                {
+                    "id": "e3",
+                    "name": "Electrical Muscle Stimulation",
+                    "mins": "15",
+                    "side": "Right knee",
+                    "press": "Low pressure",
+                    "deg": "1",
+                    "stim_mode": "沙包壓腳",
+                    "bike_range": "Full Circle",
+                    "level": "1",
+                    "seat_type": "Short Seat",
+                    "sling_move": "Hip Abduction",
+                    "wave": "Blue Wave",
+                    "box_height": "4\"",
+                    "hurdle_height": "4\"",
+                    "lymph_press": "40 mmHg"
+                }
+            ]
+        },
+        {
+            "timestamp": "05/10/2026 00:18",
+            "exercises": [
+                {
+                    "id": "e1",
+                    "name": "Ice + Magnetopulse",
+                    "mins": "15",
+                    "side": "Bilateral knee"
+                },
+                {
+                    "id": "e3",
+                    "name": "Electrical Muscle Stimulation",
+                    "mins": "10",
+                    "stim_mode": "Quad Board 踢腳",
+                    "weight": "5"
+                }
+            ]
+        },
+        {
+            "timestamp": "05/10/2026 00:31",
+            "exercises": [
+                {
+                    "id": "s5",
+                    "name": "Nustep",
+                    "mins": "10",
+                    "level": "1",
+                    "seat": "",
+                    "s5_long_seat": true
+                },
+                {
+                    "id": "s7",
+                    "name": "Sling suspension",
+                    "mins": "10",
+                    "s7_mode": "側訓＋前後",
+                    "s7_band": true,
+                    "s7_band_color": "Green theraband"
+                },
+                {
+                    "id": "s8",
+                    "name": "Reciprocal pulley",
+                    "mins": "10",
+                    "s8_towel": true
+                }
+            ]
+        },
+        {
+            "timestamp": "05/10/2026 11:16",
+            "exercises": [
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "mins": "15",
+                    "side": "Right knee",
+                    "press": "Low pressure",
+                    "deg": "1"
+                },
+                {
+                    "id": "e3",
+                    "name": "Electrical Muscle Stimulation",
+                    "mins": "15",
+                    "e3_side": "Right quadriceps",
+                    "stim_mode_R": "Quad Board 踢腳",
+                    "stim_mode_L": "Static Quads"
+                },
+                {
+                    "id": "s4",
+                    "name": "Static bike",
+                    "mins": "10",
+                    "bike_range": "Full Circle"
+                },
+                {
+                    "id": "f7",
+                    "name": "Stepping ex on foam",
+                    "mins": "10",
+                    "f7_bars": false,
+                    "f7_family": false
+                }
+            ]
+        }
+    ],
+    "PHYA123": [
+        {
+            "timestamp": "05/10/2026 00:14",
+            "exercises": [
+                {
+                    "id": "e1",
+                    "name": "Ice + Magnetopulse",
+                    "mins": "15",
+                    "side": "Left knee",
+                    "press": "Low pressure",
+                    "deg": "1",
+                    "stim_mode": "Static Quads",
+                    "bike_range": "Full Circle",
+                    "level": "1",
+                    "seat_type": "Short Seat",
+                    "sling_move": "Hip Abduction",
+                    "wave": "Blue Wave",
+                    "box_height": "4\"",
+                    "hurdle_height": "4\"",
+                    "lymph_press": "40 mmHg"
+                },
+                {
+                    "id": "e2",
+                    "name": "Gameready",
+                    "mins": "15",
+                    "side": "Right knee",
+                    "press": "Low pressure",
+                    "deg": "1",
+                    "stim_mode": "Static Quads",
+                    "bike_range": "Full Circle",
+                    "level": "1",
+                    "seat_type": "Short Seat",
+                    "sling_move": "Hip Abduction",
+                    "wave": "Blue Wave",
+                    "box_height": "4\"",
+                    "hurdle_height": "4\"",
+                    "lymph_press": "40 mmHg"
+                }
+            ]
+        }
+    ],
+    "1234": [
+        {
+            "timestamp": "05/10/2026 00:45",
+            "exercises": [
+                {
+                    "id": "s7",
+                    "name": "Sling suspension",
+                    "mins": "10",
+                    "s7_modes": [
+                        "側訓＋前後",
+                        "平訓＋打開腳"
+                    ],
+                    "s7_band": false,
+                    "s7_band_color": "Red theraband"
+                }
+            ]
+        }
+    ],
+    "123": [
+        {
+            "timestamp": "05/10/2026 00:47",
+            "exercises": [
+                {
+                    "id": "s7",
+                    "name": "Sling suspension",
+                    "mins": "10",
+                    "s7_modes": [
+                        "平訓＋打開腳",
+                        "側訓＋前後"
+                    ],
+                    "s7_band": false,
+                    "s7_band_color": "Red theraband"
+                }
+            ]
+        }
+    ]
+}
